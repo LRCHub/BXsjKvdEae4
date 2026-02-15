@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Barricades",
+  "base_artist": "澤野弘之",
+  "createdAt": "2026-02-15T07:34:25.775233Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Barricades - Introduction",
+      "artist": "Spandau Ballet",
+      "has_synced": false,
+      "path": "select/01_Barricades_-_Introduction_Spandau_Ballet.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Barricades – Introduction",
+      "artist": "Spandau Ballet",
+      "has_synced": false,
+      "path": "select/02_Barricades_–_Introduction_Spandau_Ballet.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Through the Barricades",
+      "artist": "Spandau Ballet",
+      "has_synced": true,
+      "path": "select/03_Through_the_Barricades_Spandau_Ballet.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Barricades (Introduction) (Remastered)",
+      "artist": "Spandau Ballet",
+      "has_synced": true,
+      "path": "select/04_Barricades_(Introduction)_(Remastered)_Spandau_Ballet.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Through the Barricades (Extended Version) (Remastered)",
+      "artist": "Spandau Ballet",
+      "has_synced": false,
+      "path": "select/05_Through_the_Barricades_(Extended_Version)_(Remastered)_Spandau_Ballet.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Through the Barricades (One Track Vocal Guide Demo)",
+      "artist": "Spandau Ballet",
+      "has_synced": true,
+      "path": "select/06_Through_the_Barricades_(One_Track_Vocal_Guide_Demo)_Spandau_Ballet.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Through the Barricades (Remastered)",
+      "artist": "Spandau Ballet",
+      "has_synced": true,
+      "path": "select/07_Through_the_Barricades_(Remastered)_Spandau_Ballet.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Broken Barricades",
+      "artist": "Procol Harum",
+      "has_synced": true,
+      "path": "select/08_Broken_Barricades_Procol_Harum.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Barricades",
+      "artist": "澤野弘之",
+      "has_synced": true,
+      "path": "select/09_Barricades_澤野弘之.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Barricades",
+      "artist": "Hiroyuki Sawano feat. Yosh, Gemie and mpi",
+      "has_synced": true,
+      "path": "select/10_Barricades_Hiroyuki_Sawano_feat._Yosh,_Gemie_and_mpi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Through the Barricades",
+      "artist": "Spandau Ballet",
+      "has_synced": true,
+      "path": "select/11_Through_the_Barricades_Spandau_Ballet.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Barricades - MOVIEver.",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/12_Barricades_-_MOVIEver._澤野弘之.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Barricades <MODv>",
+      "artist": "SawanoHiroyuki[nZk]:Yosh",
+      "has_synced": true,
+      "path": "select/13_Barricades__MODv_SawanoHiroyuki[nZk]_Yosh.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Barricades <MODv>",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/14_Barricades__MODv_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Barricades",
+      "artist": "Action/Adventure",
+      "has_synced": true,
+      "path": "select/15_Barricades_Action_Adventure.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Barricades Of Heaven",
+      "artist": "Jackson Browne",
+      "has_synced": true,
+      "path": "select/16_The_Barricades_Of_Heaven_Jackson_Browne.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Through The Barricades",
+      "artist": "Spandau Ballet",
+      "has_synced": true,
+      "path": "select/17_Through_The_Barricades_Spandau_Ballet.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Barricades of Heaven",
+      "artist": "Griffin House",
+      "has_synced": false,
+      "path": "select/18_Barricades_of_Heaven_Griffin_House.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Barricades",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/pl_01_Barricades_澤野弘之.txt"
+    }
+  ]
+}
